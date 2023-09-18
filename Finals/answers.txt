@@ -1,0 +1,55 @@
+What is the structure of data in relational database management system(RDBMS)?
+a) All data is stored and represented by objects
+b) Unstructured data is stored and processed in potentially massively parallel solutions
+c) Data is structured in predefined tables by rows and columns
+d) None of the above 
+
+what is relational database characteristics?
+a) use query languages(SQL) to retrive information 
+b) Support transactions for consistency 
+c) support multiple concurrent users 
+d) all of the above
+
+what is the disadvatage of traditional file processing system?
+s) data stored in relational tables
+b) tables are designed to minimize redundant information
+c) limited data sharing 
+d) High progammer productivity
+
+In a relational database, tables may include .... to unlikely identify the instance of the entity represented by the tuple or rows
+a) A foreign key
+b) A primary key
+c) Attributes 
+d)Entities
+
+In a relational db ... are typically represented in tables, ... are represented as columns in the table, and ... are represented as tuples (rows) in the table
+a) Attributes, instances, Entities 
+b) primary keys, Entities, instances
+c) Entities, Attributes, instances
+d) primary keys, foreign keys, instances
+
+
+
+
+foe q6 start and end point should be included 
+
+given start and end of a positive range, write a python program to print all prime numbers in given range in a list. 
+Note: program should ask the user for start and end of range. Also, the start and end should be included 
+
+Write a python program to print the fibonacci series using two methods
+1) iterative method 
+2)recursive method
+
+A list is sorted in ascending order if it is empty or each item except the last one is less than or equal to it's successor.
+Define a function named isSorted that expects a list as an argument from a user and return true if the list is sorted or returns false otherwise.
+
+hint: For a list of length 2 or greater, loop through the list and comapare pairs of items, from left to right, and return dalse if the first item in a pair is greater.
+
+
+The German mathematician Gottfried Leibniz developed the following method to approximate the value of pi:
+
+pi/4 = 1 - 1/3 + 1/5 - 1/7 + ...
+
+Write a program that allows the user to specify the number of iterations used in this approximation and that displays the resulting value of pi
+
+
